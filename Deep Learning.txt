@@ -1,0 +1,4 @@
+x=independent var
+y=dependent var
+encode catagorical data independent vars
+splitting the dataset into tr ainnig set or test set
